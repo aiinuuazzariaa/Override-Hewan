@@ -16,10 +16,10 @@ public class Hewan {
      */
     public static void main(String[] args) {
         NamaHewan io = new NamaHewan();
-        io.nama("Hewan ini bernama ");
+        io.hewan("Hewan ini bernama ");
         
         Makanan yo = new Makanan();
-        yo.makan("Hewan ini suka makan ");
+        yo.hewan("Hewan ini suka makan ");
     }
     
 }
