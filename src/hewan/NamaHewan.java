@@ -12,7 +12,7 @@ package hewan;
 public class NamaHewan extends Hewan {
     String nama;
     
-  void nama (String nama){
+  void hewan (String nama){
       this.nama = nama;
       System.out.println(nama+"kucing");
   }  
