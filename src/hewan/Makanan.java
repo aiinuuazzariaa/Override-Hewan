@@ -12,7 +12,7 @@ package hewan;
 public class Makanan extends NamaHewan {
     String makan;
     
-   void makan (String makan){
+   void hewan (String makan){
        this.makan = makan;
        System.out.println(makan+"ikan asin");
    } 
